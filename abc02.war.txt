@@ -1,0 +1,1 @@
+D:\jmeter51\bin>jmeter.bat -jjmeter.save.saveservice.output_format=xml -n -t D:\pt_files\CI_CD\jenkins_jmeter\basic_jenkins_integration_script03\basic_jenkins_integration_script03.jmx -l D:\pt_files\CI_CD\jenkins_jmeter\basic_jenkins_integration_script03\results\01.jtl
